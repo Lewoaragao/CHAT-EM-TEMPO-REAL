@@ -1,4 +1,4 @@
-# CHAT-EM-TEMPO-REAL
+# CHAT-EM-TEMPO-REAL-ROCKETSEAT
 
 Necessário instalações das seguintes bibliotecas:
 - ejs
